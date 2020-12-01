@@ -1,0 +1,8 @@
+,Models,R Squared,Adjusted R Squared,Demo Predictions
+1,Linear Regression (Sklearn),0.812095831,0.811779639,0.811779639
+2,Linear Regression (Statsmodels),0.812095831,0.811779639,0.811779639
+3,Polynomial Regression,0.904748681,0.904588399,0.904588399
+4,Support Vector Regression,0.933868778,0.933757497,0.933757497
+5,Decision Tree Regression,0.823122602,0.822824966,0.822824966
+6,Random Forrest Regression,0.923407219,0.923278334,0.923278334
+7,Gradient Boosting Regression,0.869072304,0.868851989,0.868851989
