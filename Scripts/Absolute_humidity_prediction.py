@@ -150,7 +150,7 @@ g = xgbr.predict(demo)
 
 # Making a list of demo predictions
 list3 = [a, b, c, d, e, f, g]
-list3 = np.array(list2, dtype = 'object')
+list3 = np.array(list3, dtype = 'object')
 
 # Initiating ending time
 end = time.time()
