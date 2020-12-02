@@ -31,7 +31,7 @@ Notes:
 1) These scripts were made with the help of Numpy, Pandas and Scikit-Learn. 
 2) There is no noticable difference between R Squared and adjusted R Squared in the tables above. This is due to small differences getting rounded off. Please see the output.csv files for exact values.
 3) The .jpg file provides more information about the variables found in the dataset.
-4) The Single predictions are made on a list containing features with randomized but realistic values.
-5) Support Vector Regression was excluded from the Relative Humidity prediction script due to it resulting in negative R Squared.
+4) The single predictions are made on a list containing randomized but realistic values of the independant variables.
+5) Support Vector Regression was excluded from the Relative Humidity prediction script due to it resulting in a negative R Squared.
 
 Dataset Link: https://archive.ics.uci.edu/ml/datasets/Air+Quality
