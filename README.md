@@ -8,12 +8,12 @@ A) The output of the Absolute Humidity Prediction script is:
 
 |Number|       Regression Models       |R Squared  |Adjusted R Squared| Single Predictions |
 |:----:|:-----------------------------:|:---------:|:----------------:|:------------------:|
-|  1   |        Linear Regression      |   0.81    |       0.81       |        0.81        |
-|  2   |     Polynomial Regression     |   0.90    |       0.90       |        0.90        |
-|  3   |   Support Vector Regression   |   0.93    |       0.93       |        0.93        |  
-|  4   |   Decision Tree Regression    |   0.82    |       0.82       |        0.82        |
-|  5   |   Random Forrest Regression   |   0.92    |       0.92       |        0.92        |
-|  6   | Gradient Boosting Regression  |   0.87    |       0.87       |        0.87        |
+|  1   |        Linear Regression      |   0.81    |       0.81       |        2.20        |
+|  2   |     Polynomial Regression     |   0.90    |       0.90       |        3.49        |
+|  3   |   Support Vector Regression   |   0.93    |       0.93       |        0.91        |  
+|  4   |   Decision Tree Regression    |   0.82    |       0.82       |        1.92        |
+|  5   |   Random Forrest Regression   |   0.92    |       0.92       |        1.37        |
+|  6   | Gradient Boosting Regression  |   0.87    |       0.87       |        1.69        |
 
 
 B) The output of the Relative Humidity Prediction script is:
