@@ -1,6 +1,6 @@
 # Humidity-Predictor
 
-This is a simple regression-based project that predicts the Absolute and Relative humidity present in the air given variables such as Temperature, Benzene Concentration, Nitrogen Dioxide Concentration etc.
+This is a simple regression-based project that predicts the Absolute and Relative humidity present in the air based on variables such as Temperature, Benzene Concentration, Nitrogen Dioxide Concentration etc.
 
 Two seperate scripts perform this function while also comparing several models on the bases of R Squared and Adjusted R Squared.
 
